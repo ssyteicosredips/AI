@@ -1,1 +1,1 @@
-This case study is about using linear regression models to predict running time in the Olympic game, we use several models and make the prediction more accurate.
+This case study is about using linear regression models to predict running time in the Olympic game, we use several models(simple linear regression, L1 and L2 regularization, Polynomical regression, RBF regression) and make the prediction more accurate.
